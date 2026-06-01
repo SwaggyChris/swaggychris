@@ -56,14 +56,32 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 <div align="center">
 
+### Main Profiles
+
 ![Discord](https://img.shields.io/badge/Discord-swaggychris-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
-[![X](https://img.shields.io/badge/X-SwaggyChrisWTLO-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SwaggyChrisWTLO)
-[![Reddit](https://img.shields.io/badge/Reddit-SwaggyChrisWTLO-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/r/SwaggyChrisWTLO/)
-[![VK](https://img.shields.io/badge/VK-swaggychris-0077FF?style=for-the-badge\&logo=vk\&logoColor=white)](https://vk.com/swaggychris)
+[![Discord Server](https://img.shields.io/badge/Discord_Server-Join_Community-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/MgFPEN7YQR)
 [![GitHub](https://img.shields.io/badge/GitHub-swaggychris-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/swaggychris)
-[![Twitch](https://img.shields.io/badge/Twitch-swaggychrisofficial-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/swaggychrisofficial)
+[![X](https://img.shields.io/badge/X-SwaggyChrisWTLO-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/SwaggyChrisWTLO)
+[![VK](https://img.shields.io/badge/VK-swaggychris-0077FF?style=for-the-badge\&logo=vk\&logoColor=white)](https://vk.com/swaggychris)
+[![Steam](https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge\&logo=steam\&logoColor=white)](https://steamcommunity.com/profiles/7656119887218438)
+
+<br />
+<br />
+
+### Content Channels
+
+[![Twitch Official](https://img.shields.io/badge/Twitch_Official-swaggychrisofficial-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/swaggychrisofficial)
+[![Twitch 1st Channel](https://img.shields.io/badge/Twitch_1st_Channel-swaggychris23-9146FF?style=for-the-badge\&logo=twitch\&logoColor=white)](https://www.twitch.tv/swaggychris23)
 [![YouTube](https://img.shields.io/badge/YouTube-SwaggyChris-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/@swaggychris20)
 [![TikTok](https://img.shields.io/badge/TikTok-swaggychrisofficial-000000?style=for-the-badge\&logo=tiktok\&logoColor=white)](https://www.tiktok.com/@swaggychrisofficial)
+
+<br />
+<br />
+
+### Reddit
+
+[![Reddit Community](https://img.shields.io/badge/Reddit_Community-SwaggyChrisWTLO-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/r/SwaggyChrisWTLO/)
+[![Reddit Profile](https://img.shields.io/badge/Reddit_Profile-Time--Spend--2604-FF4500?style=for-the-badge\&logo=reddit\&logoColor=white)](https://www.reddit.com/user/Time-Spend-2604)
 
 </div>
 
@@ -368,4 +386,3 @@ Gaming databases, wiki-style knowledge bases, content tools, and community-focus
 </p>
 
 </div>
-
