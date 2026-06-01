@@ -93,17 +93,12 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,py,java,dart,html,css,md" alt="Programming Languages" />
-
-<br />
-<br />
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)](https://dart.dev/)
 
 </div>
 
@@ -113,20 +108,15 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,bootstrap,tailwind,threejs,jquery" alt="Frontend Development" />
-
-<br />
-<br />
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge\&logo=webgl\&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)](https://nextjs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)](https://vite.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=white)](https://threejs.org/)
+[![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge\&logo=webgl\&logoColor=white)](https://www.khronos.org/webgl/)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)](https://jquery.com/)
 
 </div>
 
@@ -136,16 +126,11 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,flask,fastapi" alt="Backend Development" />
-
-<br />
-<br />
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)](https://nodejs.org/)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)](https://nestjs.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
 
 </div>
 
@@ -155,15 +140,10 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 ### Mobile & Desktop Development
 
-<img src="https://skillicons.dev/icons?i=flutter,electron,react" alt="Mobile and Desktop Development" />
-
-<br />
-<br />
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge\&logo=electron\&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)](https://flutter.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)](https://reactnative.dev/)
+[![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge\&logo=electron\&logoColor=white)](https://www.electronjs.org/)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)](https://expo.dev/)
 
 </div>
 
@@ -173,14 +153,9 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases" />
-
-<br />
-<br />
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)](https://firebase.google.com/)
 
 </div>
 
@@ -190,19 +165,14 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 ### Cloud, Hosting & DevOps
 
-<img src="https://skillicons.dev/icons?i=vercel,gcp,aws,docker,github,git,npm" alt="Cloud Hosting and DevOps" />
-
-<br />
-<br />
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://vercel.com/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)](https://cloud.google.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)](https://firebase.google.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)](https://www.digitalocean.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)](https://www.npmjs.com/)
 
 </div>
 
@@ -212,17 +182,12 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 ### Game, 3D & Creative Tools
 
-<img src="https://skillicons.dev/icons?i=unity,unreal,blender,figma" alt="Game 3D and Creative Tools" />
-
-<br />
-<br />
-
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge\&logo=unity\&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge\&logo=opengl\&logoColor=white)
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge\&logo=unity\&logoColor=black)](https://unity.com/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge\&logo=unrealengine\&logoColor=white)](https://www.unrealengine.com/)
+[![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge\&logo=blender\&logoColor=white)](https://www.blender.org/)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)](https://www.canva.com/)
+[![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)](https://www.framer.com/)
+[![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge\&logo=opengl\&logoColor=white)](https://www.opengl.org/)
 
 </div>
 
@@ -232,19 +197,14 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,powershell,anaconda,github,git,docker,npm" alt="Developer Tools" />
-
-<br />
-<br />
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Visual Studio Community 2022](https://img.shields.io/badge/Visual_Studio_Community_2022-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge\&logo=windowsterminal\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge\&logo=steam\&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-58A6FF?style=for-the-badge)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio Community 2022](https://img.shields.io/badge/Visual_Studio_Community_2022-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)](https://visualstudio.microsoft.com/vs/community/)
+[![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge\&logo=windowsterminal\&logoColor=white)](https://github.com/microsoft/terminal)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)](https://learn.microsoft.com/en-us/powershell/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)](https://www.anaconda.com/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge\&logo=steam\&logoColor=white)](https://store.steampowered.com/)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)](https://www.nvidia.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-58A6FF?style=for-the-badge)](#)
 
 </div>
 
@@ -254,12 +214,12 @@ My work combines software development, UI/UX design, gaming/community tools, and
 
 <div align="center">
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
-![ChatGPT Codex](https://img.shields.io/badge/ChatGPT_Codex-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
-![Vercel AI](https://img.shields.io/badge/Vercel_AI-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-2F6BFF?style=for-the-badge\&logo=alibabacloud\&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge\&logoColor=white)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)](https://chatgpt.com/)
+[![ChatGPT Codex](https://img.shields.io/badge/ChatGPT_Codex-000000?style=for-the-badge\&logo=openai\&logoColor=white)](https://openai.com/codex/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)](https://claude.ai/)
+[![Vercel AI](https://img.shields.io/badge/Vercel_AI-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://vercel.com/ai)
+[![Qwen](https://img.shields.io/badge/Qwen-2F6BFF?style=for-the-badge\&logo=alibabacloud\&logoColor=white)](https://qwen.ai/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge\&logoColor=white)](https://www.deepseek.com/)
 
 </div>
 
